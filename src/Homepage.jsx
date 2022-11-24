@@ -5,7 +5,7 @@ const Homepage=()=>{
    <>
    <div className="homepage">
         <p>Welcome to</p>
-        <h1>Fashion!!</h1>
+        <h1>Fashion</h1>
     </div>
     </>
     )

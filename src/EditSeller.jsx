@@ -137,7 +137,7 @@ const EditSeller=()=>{
      backdrop="static"
      keyboard={false}>
       <div className="modal-header" >
-        <h5 className="modal-title">Seller Data</h5>
+        <h5  className="modal-title">Seller Data</h5>
         <button type="button" className="btn-close" data-bs-dismiss="modal" aria-label="Close" onClick={handleViewClose}> </button>
       </div>
       <div className="modal-body">
